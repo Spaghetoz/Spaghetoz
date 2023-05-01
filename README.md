@@ -1,5 +1,5 @@
 
-# ---About me
+# About me
 
 Hey I'm Spaghetoz, I am currently student in high school and I like programming during my free time
 
@@ -7,7 +7,7 @@ Hey I'm Spaghetoz, I am currently student in high school and I like programming 
 
 
 
-# ---Programming Languages
+# Programming Languages
 
 - My favorites
 
@@ -26,6 +26,6 @@ C# : Monogame
 <br/>
 Java : Javafx
 
-# ---My Favorite IDE
+# My Favorite IDE
 
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
