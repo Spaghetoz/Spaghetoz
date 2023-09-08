@@ -1,7 +1,7 @@
 
 # About me
 
-Hey I'm Spaghetoz, I am currently a student in high school and I like programming during my free time
+Hey I'm Spaghetoz, I am currently a student in a Computer Science license and I like programming during my free time
 
 
 
