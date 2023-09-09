@@ -1,7 +1,7 @@
 
 # About me
 
-Hey I'm Spaghetoz, I am currently a student in a Computer Science license and I like programming during my free time
+Hey I'm Spaghetoz, I am currently a student in Computer Science at Université Paris Cité and I like programming during my free time
 
 
 
