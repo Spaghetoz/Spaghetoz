@@ -11,7 +11,7 @@ Hey I'm Spaghetoz, I am currently a student in Computer Science at Université P
 
 ## My favorites
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 Python : Pygame, Flask 
 <br/>
