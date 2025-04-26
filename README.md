@@ -25,7 +25,7 @@ Hey I'm Spaghetoz, I am currently a student in Computer Science at Université P
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
 
-**JavaScript**
+**JavaScript** : P5
 <br/>
 **C#** : Monogame
 <br/>
