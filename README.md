@@ -11,6 +11,9 @@
 ## ⚗️ Other tools I've Worked With
 
 [![Other Skills](https://skillicons.dev/icons?i=java,ocaml,postgresql,docker,express,react,cs)](https://skillicons.dev)
+
+## My Leetcode profile
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Spaghetoz/)
+
 # Stats
 ![Leetcode](https://leetcard.jacoblin.cool/Spaghetoz?theme=nord)    ![Spaghetoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaghetoz&show_icons=true&theme=nord) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Spaghetoz/)
