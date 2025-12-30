@@ -3,12 +3,12 @@
 
 ### I'm a computer science student at Université Paris Cité, passionate about exploring software development and experimenting with new tools and technologies.
 
-## 🌟 Principal skills
+## 🌟 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,c,git,vscode)](https://skillicons.dev)
 
 
-## ⚗️ Other tools I've Worked With
+## 🧪 Basic Knowledge
 
 [![Other Skills](https://skillicons.dev/icons?i=java,ocaml,postgresql,docker,express,react,cs)](https://skillicons.dev)
 
