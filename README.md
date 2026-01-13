@@ -3,6 +3,8 @@
 
 ### I'm a computer science student at Université Paris Cité, passionate about exploring software development and experimenting with new tools and technologies.
 
+### 🦀 Currently learning Rust 
+
 ## 🌟 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,c,git,vscode)](https://skillicons.dev)
